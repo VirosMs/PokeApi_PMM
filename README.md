@@ -29,7 +29,7 @@ Para ejecutar la aplicación, simplemente haz clic en el botón "Run" en Android
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia GPL-3.0. Consulta el archivo `LICENSE` para obtener más detalles.
+Este proyecto está licenciado bajo la Licencia GPL-3.0. Consulta el archivo [LICENSE](https://github.com/VirosMs/PokeApi_PMM/tree/main?tab=security-ov-file) para obtener más detalles.
 
 ## Créditos
 
